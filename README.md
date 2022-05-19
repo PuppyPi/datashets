@@ -13,6 +13,8 @@
       + [datashets-localfile-java](https://github.com/PuppyPi/datashets-localfile-java)
       + datashets-localfile-json
          + [datashets-localfile-json-java](https://github.com/PuppyPi/datashets-localfile-json-java)
+      + datashets-localfile-cbor
+         + [datashets-localfile-cbor-java](https://github.com/PuppyPi/datashets-localfile-cbor-java)
       + datashets-localfile-csv
          + [datashets-localfile-csv-java](https://github.com/PuppyPi/datashets-localfile-csv-java)
    + datashets-gds
