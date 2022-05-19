@@ -1,9 +1,9 @@
 # datashets
 
-+ [datashets](https://github.com/PuppyPi/datashets)
++ **[datashets](https://github.com/PuppyPi/datashets)**
    + [datashets-java](https://github.com/PuppyPi/datashets-java)
       + [datashets-python2](https://github.com/PuppyPi/datashets-python2)
-+ Implementations
++ **Implementations**
    + datashets-on-richdatashets
       + [datashets-on-richdatashets-java](https://github.com/PuppyPi/datashets-on-richdatashets-java)
    + datashets-stdio-invokee
@@ -22,14 +22,16 @@
       + [datashets-gds-python2](https://github.com/PuppyPi/datashets-gds-python2)
    + datashets-sql
       + [datashets-sql-java](https://github.com/PuppyPi/datashets-sql-java)
-+ Tests
++ **Tests**
    + datashets-tests
       + [datashets-tests-java](https://github.com/PuppyPi/datashets-tests-java)
-+ Miscellaneous
-   + [datashets-stdio-invoker-java](https://github.com/PuppyPi/datashets-stdio-invoker-java)
++ **Miscellaneous**
+   + datashets-stdio-invoker
+      + [datashets-stdio-invoker-java](https://github.com/PuppyPi/datashets-stdio-invoker-java)
    + [datashets-starbound](https://github.com/PuppyPi/datashets-starbound)
 + **Some Client Code** (inexhaustive)
-   + [datashets-stdio-invoker-java](https://github.com/PuppyPi/datashets-stdio-invoker-java)
+   + datashets-stdio-invoker
+      + [datashets-stdio-invoker-java](https://github.com/PuppyPi/datashets-stdio-invoker-java)
    + testing-with-datashets
       + [testing-with-datashets-java](https://github.com/PuppyPi/testing-with-datashets-java)
       + [testing-with-datashets-python2](https://github.com/PuppyPi/testing-with-datashets-python2)
