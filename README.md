@@ -26,6 +26,11 @@
 + Miscellaneous
    + [datashets-stdio-invoker-java](https://github.com/PuppyPi/datashets-stdio-invoker-java)
    + [datashets-starbound](https://github.com/PuppyPi/datashets-starbound)
++ **Some Client Code** (inexhaustive)
+   + [datashets-stdio-invoker-java](https://github.com/PuppyPi/datashets-stdio-invoker-java)
+   + testing-with-datashets
+      + [testing-with-datashets-java](https://github.com/PuppyPi/testing-with-datashets-java)
+      + [testing-with-datashets-python2](https://github.com/PuppyPi/testing-with-datashets-python2)
 
 
 
