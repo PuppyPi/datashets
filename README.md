@@ -2,7 +2,7 @@
 
 + **[datashets](https://github.com/PuppyPi/datashets)**
    + [datashets-java](https://github.com/PuppyPi/datashets-java)
-      + [datashets-python2](https://github.com/PuppyPi/datashets-python2)
+   + [datashets-python2](https://github.com/PuppyPi/datashets-python2)
 + **Implementations**
    + datashets-on-richdatashets
       + [datashets-on-richdatashets-java](https://github.com/PuppyPi/datashets-on-richdatashets-java)
