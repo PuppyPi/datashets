@@ -35,6 +35,8 @@
    + testing-with-datashets
       + [testing-with-datashets-java](https://github.com/PuppyPi/testing-with-datashets-java)
       + [testing-with-datashets-python2](https://github.com/PuppyPi/testing-with-datashets-python2)
+   + datashets-by-url
+      + [datashets-by-url-java](https://github.com/PuppyPi/datashets-by-url-java)
 
 
 
